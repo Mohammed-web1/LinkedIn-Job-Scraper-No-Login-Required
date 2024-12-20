@@ -22,7 +22,6 @@ How to Use
 Clone the repository:
 bash
 Copier le code
-git clone https://github.com/yourusername/linkedin-job-scraper.git
 Navigate to the project directory:
 bash
 Copier le code
